@@ -1,4 +1,5 @@
 import React from 'react';
+import Aside from '../containers/Aside';
 import Header from '../containers/Header';
 import StoryList from '../containers/StoryList';
 import TimeLine from '../containers/TimeLine';
@@ -13,6 +14,7 @@ const Home = () => {
           <StoryList />
           <TimeLine />
         </ConstainerBody>
+        <Aside />
       </Container>
     </>
   )

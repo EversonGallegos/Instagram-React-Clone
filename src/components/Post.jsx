@@ -7,7 +7,7 @@ const Post = () => {
     <ContainerPost>
       <HeaderPost>
         <ImagePost src={imageProfile}/>
-        <NamePost>zezinho de piraquara</NamePost>
+        <NamePost>zezinhodepiraquara</NamePost>
       </HeaderPost>
       <BodyPost>
         <ContentPost src={imageProfile} />
