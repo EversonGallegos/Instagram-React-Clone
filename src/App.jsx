@@ -1,12 +1,12 @@
 import React from 'react';
-import Header from './containers/Header';
+import Home from './pages/Home';
 import { Global } from './styles/global.style';
 
 const App = () => {
   return (
   <div>
     <Global />
-    <Header />
+    <Home />
   </div>
   )
 };

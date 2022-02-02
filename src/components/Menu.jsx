@@ -11,7 +11,7 @@ const Menu = () => {
     <Add />
     <Compass />
     <Heart />
-    <ImageMenu src={imageProfile} />
+    <ImageMenu src={imageProfile  } />
     <imageProfile />
   </ContainerMenu>
   )
